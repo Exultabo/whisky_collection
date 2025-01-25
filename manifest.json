@@ -1,0 +1,10 @@
+{
+    "domain": "whisky_collection",
+    "name": "whisky_collection",
+    "documentation": "https://github.com/Exultabo/whisky_collection",
+    "dependencies": [],
+    "codeowners": ["@Exultabo"],
+    "requirements": ["aiosqlite"],
+    "version": "0.1.0"
+  }
+  
